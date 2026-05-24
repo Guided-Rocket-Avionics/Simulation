@@ -62,7 +62,7 @@ Python 3.11+ recommended.
 ## Getting Started
 
 ```bash
-git clone https://github.com/YOUR-ORG/simulation.git
+git clone https://github.com/Guided-Rocket-Avionics/simulation.git
 cd simulation
 python -m venv venv
 source venv/bin/activate    # Windows: venv\Scripts\activate
