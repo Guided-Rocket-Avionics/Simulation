@@ -5,7 +5,9 @@ Fins produce a moment to correct this, here the aerodynamic force becomes perped
 <img width="771" height="216" alt="image" src="https://github.com/user-attachments/assets/03965f2f-c040-4831-889e-79e26c3dfae9" />
 
 **The point on which the total forceacts is defined as the center of pressure or the rocket.**
+
 Stability Margin = Distance between CP and CG (Calibers)
+
 *1 Caliber = Max.body diameter of the rocket*
 ### Formulas
 
