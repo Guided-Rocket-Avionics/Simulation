@@ -1,6 +1,7 @@
 # Design Decisions
 Angle of attack: α = angle between the rocket centerline and the velocity vector
 Fins produce a moment to correct this, here the aerodynamic force becomes perpedicular to the axis of the rocket.
+
 <img width="771" height="216" alt="image" src="https://github.com/user-attachments/assets/03965f2f-c040-4831-889e-79e26c3dfae9" />
 
 **The point on which the total forceacts is defined as the center of pressure or the rocket.**
