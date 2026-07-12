@@ -29,14 +29,24 @@ $$
 X = \frac{C_{m_\alpha}}{C_{N_\alpha}} d
 $$
                         
-#KALMAN FILTER
-A Kalman Filter estimates the true state of a system from noisy data.
-The state vector contains all important variables, such as position and velocity.
-The process model predicts the next state using mathematical or physical laws.
-The measurement model describes what the sensors actually observe.
-Every prediction has some uncertainty called process noise.
-The Q matrix represents uncertainty in the prediction model.
-Every sensor measurement also contains noise.
-The R matrix represents uncertainty in the sensor measurements.
-The Kalman Filter combines prediction and measurement using the Kalman Gain, giving more weight to the more reliable source.
-This prediction–correction cycle repeats continuously to provide the best possible estimate of the system's true state.
+**KALMAN FILTER**
+
+1. A Kalman Filter estimates the true state of a system from noisy data.
+
+2. The state vector contains all important variables, such as position and velocity.
+
+3. The process model predicts the next state using mathematical or physical laws.
+
+4. The measurement model describes what the sensors actually observe.
+
+5. Every prediction has some uncertainty called process noise.
+
+6. The Q matrix represents uncertainty in the prediction model.
+
+7. Every sensor measurement also contains noise.
+
+8. The R matrix represents uncertainty in the sensor measurements.
+
+9. The Kalman Filter combines prediction and measurement using the Kalman Gain, giving more weight to the more reliable source.
+
+10. This prediction–correction cycle repeats continuously to provide the best possible estimate of the system's true state.
